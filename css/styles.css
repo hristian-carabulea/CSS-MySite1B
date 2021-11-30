@@ -1,10 +1,10 @@
 body {
-  color: #40514E;
+  color: #181616;
   margin: 0;
   text-align: center;
   /* background-color: aquamarine; */
   font-family: 'Merriweather', serif;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 
 }
 
@@ -66,9 +66,6 @@ h3 {
 }
 
 p {
-
-  /* padding: 20px; */
-  font-size: 1.0rem;
   line-height: 2;
   width: 100%;
 }
@@ -80,10 +77,6 @@ p {
 
 .paragraphWidth {
   width: 60%;
-  margin: auto;
-}
-.pSmaller {
-  font-size: 1rem;
   margin: auto;
 }
 
