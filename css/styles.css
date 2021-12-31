@@ -80,13 +80,6 @@ p {
   margin: auto;
 }
 
-img {
-  width: 100%;
-  height: auto;
-  margin-bottom: 0px;
-  margin-top: 0px;
-}
-
 .top-cloud {
   width: 30%;
   height: auto;
@@ -101,17 +94,8 @@ img {
   margin-top: 0px;
 }
 
-.profilePic {
+.profilePic { /* size of profile image */
   width: 30%;
-}
-
-.img1 {
-  width: 65%;
-}
-
-.img2 {
-  width: 50%;
-  margin-bottom: 0px;
 }
 
 .SAP_ABAP {
@@ -139,6 +123,24 @@ img {
   margin-left: 30px;
 }
 
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.img1 {
+  width: 65%;
+}
+
+.img2 {
+  width: 50%;
+}
+
+.img3 {
+  width: 30%;
+}
 .img4 {
   width: 20%;
 }
